@@ -1,2 +1,62 @@
-# LearningAI
-LearningAI
+# MS Free Beginners videos
+
+Microsoft 2026 AI Roadmap to become AI-capable
+https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/
+
+1️⃣ Generative AI & LLM fundamentals
+What LLMs are, how they work, and where they break.
+
+2️⃣ Comparing LLMs
+How to choose models based on cost, latency, and capability.
+
+3️⃣ Responsible AI
+Safety, bias, and why this matters in production.
+
+4️⃣ Prompt engineering fundamentals
+Clear, structured prompts that actually work.
+
+5️⃣ Advanced prompting techniques
+Reliability, constraints, and prompt patterns.
+
+6️⃣ Text generation apps
+Your first real GenAI application.
+
+7️⃣ Chat applications
+Building chatbots that don’t feel brittle.
+
+8️⃣ Vector databases & search apps
+Your entry point into RAG systems.
+
+9️⃣ Image generation apps
+How multimodal GenAI products are built.
+
+🔟 Low-code AI apps
+Ship faster without heavy infrastructure.
+
+1️⃣1️⃣ Function calling & tool use
+Connecting LLMs to real systems and APIs.
+
+1️⃣2️⃣ UX for AI applications
+Why most GenAI products fail adoption.
+
+1️⃣3️⃣ Security for GenAI
+Protecting prompts, data, and users.
+
+1️⃣4️⃣ The GenAI application lifecycle
+From idea → prototype → production.
+
+1️⃣5️⃣ RAG (deep dive)
+Grounding, retrieval, and reducing hallucinations.
+
+1️⃣6️⃣ Open-source models & Hugging Face
+Going beyond closed APIs.
+
+1️⃣7️⃣ AI agents
+From single prompts to autonomous workflows.
+
+1️⃣8️⃣ Fine-tuning LLMs
+When it’s worth it and when it’s not.
+
+
+
+This is a free, 18-lesson course by Microsoft, built like a developer bootcamp with short, practical videos.
